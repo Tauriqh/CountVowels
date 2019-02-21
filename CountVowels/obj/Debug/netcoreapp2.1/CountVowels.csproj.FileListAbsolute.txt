@@ -1,0 +1,10 @@
+E:\Game Dev\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.deps.json
+E:\Game Dev\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.runtimeconfig.json
+E:\Game Dev\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.runtimeconfig.dev.json
+E:\Game Dev\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.dll
+E:\Game Dev\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.pdb
+E:\Game Dev\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.csproj.CoreCompileInputs.cache
+E:\Game Dev\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.AssemblyInfoInputs.cache
+E:\Game Dev\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.AssemblyInfo.cs
+E:\Game Dev\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.dll
+E:\Game Dev\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.pdb
